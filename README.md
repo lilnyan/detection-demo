@@ -13,3 +13,5 @@
 _ | _
 - | -
 ![alt](https://pytorch.org/assets/images/ssd_diagram.png) | ![alt](https://pytorch.org/assets/images/ssd.png)
+
+2). Запуск детектора на случайных изображениях
