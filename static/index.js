@@ -36,8 +36,8 @@ function readUrl(input) {
       // console.log(e)
 
       imagebox.attr("src", e.target.result);
-       imagebox.height(300);
-       imagebox.width(300);
+       //imagebox.height(300);
+       //imagebox.width(300);
     };
     reader.readAsDataURL(input.files[0]);
   }
