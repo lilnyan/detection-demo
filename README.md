@@ -1,4 +1,5 @@
 Steps to start:
+GOOGLE COLAB:
 1. Download .ipynb file
 2. Open with Google Colab
 3. Copy link  ...ngrok.io 
