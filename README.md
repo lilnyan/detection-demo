@@ -1,5 +1,5 @@
 Steps to start:
-1. Download .ipynb-file
+1. Download .ipynbfile
 2. Open with Google Colab
 3. Copy link from ...ngrok.io 
 4. Download the image
